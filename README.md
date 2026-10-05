@@ -2,14 +2,13 @@
 
 This is an older Unity project that I worked on during university while learning the basics of game development with Unity.
 
-The project is based on the Unity Learn tutorial "John Lemon's Haunted Jaunt" and was used to practice concepts such as:
+The project is based on the Unity Learn tutorial "John Lemon's Haunted Jaunt". As part of the university assignment, I also had to extend the original tutorial project with additional gameplay elements.
 
-- Scene setup
-- Player movement
-- Colliders and triggers
-- Basic enemy behavior
-- UI and game flow
-- Lighting and audio
-- Working with Unity prefabs and components
+Some of the custom additions I can identify in this version include:
 
-The project was later updated to a newer Unity LTS version!
+- Explosion-related gameplay/effects
+- Health pack / health recovery mechanic
+
+There may have been additional changes made for the assignment, but I no longer have a clear record of which features were part of the original tutorial and which were added later.
+
+The project was also updated to a newer Unity LTS version!
